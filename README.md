@@ -1,7 +1,7 @@
-#SERVIDOR DE DNS EM JAVA
+# SERVIDOR DE DNS EM JAVA
 
 
-##Descrição
+## Descrição
 
 Esse é um projeto proposto pelo professor da matéria de rede computadores. Consiste em implementar um servidor DNS utlizando a linguagem de programação JAVA.
 
